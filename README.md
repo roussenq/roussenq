@@ -1,6 +1,6 @@
 #  Roussenq.GitHub.io 👨‍💻
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?roussenq=Your_GitHub_Username&show_icons=true)
 
 Meu nome é <strong>David Roussenq Maria</strong>, sou técnico de informática há 20 anos,<br>
 atualmente estou estudando para me tornar um desenvolvedor FullStack.<br>Possuo os seguintes certificados e conhecimentos:
