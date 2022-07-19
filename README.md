@@ -2,15 +2,16 @@
 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roussenq&show_icons=true)
 
-Meu nome é <strong>David Roussenq Maria</strong>, sou técnico de informática há 20 anos,<br>
-atualmente estou estudando para me tornar um desenvolvedor FullStack.<br>Possuo os seguintes certificados e conhecimentos:
+Meu nome é <strong>David Roussenq Maria</strong>, atualmente sou Analista de Sistemas Junior no Sesi,<br>
+<br>Possuo os seguintes certificados e conhecimentos:
 
 # Estudonauta
 
 - HTML5 + CSS3
 - JAVASCRIPT
-- PHP
+- PHP + MYSQL
 - GIT e GITHUB
+- LINUX
 
 # AlgaWorks
 
@@ -19,15 +20,13 @@ atualmente estou estudando para me tornar um desenvolvedor FullStack.<br>Possuo 
 - Especialista React
 - Especialista Spring
 - Especialista JPA
+- Especialista JAVA
 
-# Faculdade Senac🧑‍🎓Desenvolvimento de Sistemas
+# Faculdade Senac🧑‍🎓 Curso Análise e Desenvolvimento de Sistemas
 
-- Desenvolvimento na linguagem JAVA
-- POO
-- JPA
-- Hibernate
-- Spring
-- JDBC
+- POO/Desenvolvimento Desktop/Web - JAVA
+- JDBC/JPA/Hibernate/Spring
+
 <!--
 **roussenq/roussenq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
