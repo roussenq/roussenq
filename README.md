@@ -2,8 +2,11 @@
 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roussenq&show_icons=true)
 
-Meu nome é <strong>David Roussenq Maria</strong>, atualmente sou Analista de Sistemas Junior no Sesi,<br>
+Meu nome é <strong>David Roussenq Maria</strong>, atualmente sou Analista de Sistemas Pleno no Sesi-SC,<br>
 <br>Possuo os seguintes certificados e conhecimentos:
+# BlackDEV
+
+-PHP 8 + LARAVEL 10 + VUE
 
 # Estudonauta
 
